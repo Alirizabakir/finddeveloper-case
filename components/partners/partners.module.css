@@ -1,0 +1,34 @@
+.partnersContainer {
+    background-color: var(--light);
+    border-radius: 10px;
+    margin-top: 40px;
+    padding: 50px 30px;
+}
+
+.partnersContainer ul {
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    gap: 43px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+
+}
+
+.partnersContainer ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 576px) {
+    .partnersContainer {
+        padding: 30px 15px;
+    }
+    .partnersContainer ul {
+        gap: 30px;
+        grid-template-columns: repeat(2,1fr);
+    }
+}

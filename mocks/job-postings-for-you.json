@@ -1,0 +1,116 @@
+{
+  "data": {
+    "popularCategories": [
+      {
+        "id": 1,
+        "title": "Yazılım Geliştirme"
+      },
+      {
+        "id": 1,
+        "title": "Mobil Uygulama Geliştirme"
+      },
+      {
+        "id": 1,
+        "title": "Kullanıcı Deneyimi"
+      },
+      {
+        "id": 1,
+        "title": "Kullanılabilirlik"
+      },
+      {
+        "id": 1,
+        "title": "Proje Yönetimi"
+      },
+      {
+        "id": 1,
+        "title": "İş Analizi"
+      },
+      {
+        "id": 1,
+        "title": "Raporlama Uzmanı"
+      },
+      {
+        "id": 1,
+        "title": "Test Uzmanı"
+      },
+      {
+        "id": 1,
+        "title": "Yazılım Mimarı"
+      },
+      {
+        "id": 1,
+        "title": "Arayüz Tasarımı"
+      }
+    ],
+    "popularTitles": [
+      {
+        "id": 1,
+        "title": "Senior .net Developer"
+      },
+      {
+        "id": 1,
+        "title": "Senior Mobile Developer"
+      },
+      {
+        "id": 1,
+        "title": "Kullanıcı Deneyimi Tasarımcısı"
+      },
+      {
+        "id": 1,
+        "title": "Kullanılabilirlik Uzmanı"
+      },
+      {
+        "id": 1,
+        "title": "IT Sorumlusu"
+      },
+      {
+        "id": 1,
+        "title": "Mid Level .net Developer"
+      }
+    ],
+    "popularLocations": [
+      {
+        "id": 1,
+        "title": "İstanbul"
+      },
+      {
+        "id": 1,
+        "title": "İzmir"
+      },
+      {
+        "id": 1,
+        "title": "Ankara"
+      }
+    ],
+    "popularCompanyPostings": [
+      {
+        "id": 1,
+        "title": "Koç Sistem"
+      },
+      {
+        "id": 1,
+        "title": "Aktif Bank"
+      },
+      {
+        "id": 1,
+        "title": "Akbank"
+      },
+      {
+        "id": 1,
+        "title": "Türk Hava Yolları"
+      },
+      {
+        "id": 1,
+        "title": "Brisa"
+      },
+      {
+        "id": 1,
+        "title": "Vakıfbank"
+      },
+      {
+        "id": 1,
+        "title": "Neyasis Tech."
+      }
+    ]
+  }
+}

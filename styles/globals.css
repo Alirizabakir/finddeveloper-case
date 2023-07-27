@@ -1,0 +1,104 @@
+:root {
+    --primary: #4361ee;
+    --secondary: #5b6987;
+    --muted: #6b7998;
+    --light: #f7f6f6;
+    --gray: #626160;
+    --gray-500: #666768;
+    --gray-400: #808285;
+    --gray-300: #bfbcb9;
+    --gray-200: #ccc;
+    --gray-100: #e9e9e9;
+    --white: #ffffff;
+}
+
+body {
+    color: var(--gray-500);
+    background: var(--white);
+}
+
+.container {
+    /*  Mobile de padding x eklenecek  */
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+@media (max-width: 1200px) {
+    .container {
+        max-width: 1140px;
+        padding: 0 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
+}
+
+
+@media (max-width: 576px) {
+    .container {
+        max-width: 576px;
+    }
+
+    .d-sm-none {
+        display: none;
+    }
+}
+
+.scroll-none::-webkit-scrollbar {
+    display: none;
+}
+
+.scroll-behavior {
+    scroll-behavior: smooth;
+}
+
+.text-overflow {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.modal {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    visibility: hidden;
+    transition: all .2s linear;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-active {
+    opacity: 1;
+    visibility: visible;
+    transition: all .2s linear;
+}
+
+.modal .content {
+    transform: scale(.9);
+    opacity: 0;
+    visibility: hidden;
+    transition: all .2s linear;
+}
+
+.modal .content-active {
+    transform: scale(1);
+    opacity: 1;
+    visibility: visible;
+    transition: all .2s linear;
+    transition-delay: .2s;
+}
+

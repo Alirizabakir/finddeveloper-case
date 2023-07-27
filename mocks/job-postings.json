@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "position": "IT Müdürü",
+      "owner": "Bosch",
+      "slug": "b-s-h"
+    },
+    {
+      "id": 2,
+      "position": "Front-end Developer",
+      "owner": "Aktif Bank Genel Müdürü",
+      "slug": "aktif-bank"
+    },
+    {
+      "id": 3,
+      "position": "Back-end Developer",
+      "owner": "Akbank Genel Müdürü",
+      "slug": "akbank"
+    },
+    {
+      "id": 4,
+      "position": ".net Developer",
+      "owner": "Arçelik",
+      "slug": "arcelik"
+    },
+    {
+      "id": 5,
+      "position": "Junior .net Developer",
+      "owner": "Allianz",
+      "slug": "allianz"
+    },
+    {
+      "id": 6,
+      "position": "Sales Manager",
+      "owner": "Bezmialem Vakıf Üniversitesi",
+      "slug": "bezmialem"
+    },
+    {
+      "id": 4,
+      "position": ".net Developer",
+      "owner": "Arçelik",
+      "slug": "arcelik"
+    },
+    {
+      "id": 5,
+      "position": "Junior .net Developer",
+      "owner": "Allianz",
+      "slug": "allianz"
+    },
+    {
+      "id": 6,
+      "position": "Sales Manager",
+      "owner": "Bezmialem Vakıf Üniversitesi",
+      "slug": "bezmialem"
+    },
+    {
+      "id": 7,
+      "position": ".net Developer",
+      "owner": "Arçelik",
+      "slug": "arcelik"
+    },
+    {
+      "id": 8,
+      "position": "Junior .net Developer",
+      "owner": "Allianz",
+      "slug": "allianz"
+    },
+    {
+      "id": 9,
+      "position": "Sales Manager",
+      "owner": "Bezmialem Vakıf Üniversitesi",
+      "slug": "bezmialem"
+    }
+  ]
+}

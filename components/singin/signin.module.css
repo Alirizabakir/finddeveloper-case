@@ -1,0 +1,91 @@
+.signinContainer {
+    background-color: var(--primary);
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+
+}
+
+.signinContainer h1 {
+    font-size: 40px;
+    color: var(--white);
+    margin-bottom: 30px;
+}
+
+.signinContainer label {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.signinContainer label span {
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    color: var(--white);
+}
+
+.signinContainer label input {
+    padding: 10px 20px;
+    border-radius: 40rem;
+    border: 1px solid var(--primary);
+    outline: none;
+}
+
+.buttonWrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.buttonWrapper button {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 40rem;
+    transition: all .2s;
+    font-family: MarkPro-Medium;
+}
+
+.buttonWrapper button:first-child {
+    border-color: var(--white);
+    color: var(--white);
+}
+
+.buttonWrapper button:first-child:hover {
+    background-color: #5e79ef;
+    color: var(--white);
+}
+
+.buttonWrapper button:last-child {
+    border-color: var(--white);
+    background-color: var(--white);
+    color: var(--primary);
+}
+
+.buttonWrapper button:last-child:hover {
+    opacity: .9;
+}
+
+@media (max-width: 1200px) {
+    .signinContainer {
+        width: 60%;
+    }
+}
+
+@media (max-width: 768px) {
+    .signinContainer {
+        width: 80%;
+    }
+}
+
+@media (max-width: 576px) {
+    .signinContainer {
+        width: 95%;
+    }
+}

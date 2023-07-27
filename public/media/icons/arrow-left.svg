@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>05BB4F83-6474-4654-BC24-FECD7E008343</title>
+    <defs>
+        <path d="M18.4283261,10.7279879 L19.2416991,11.5703047 C19.5861003,11.9269613 19.5861003,12.5036826 19.2416991,12.856545 L12.1228532,20.2325075 C11.778452,20.5891642 11.221548,20.5891642 10.8808106,20.2325075 L3.75830089,12.856545 C3.4138997,12.4998884 3.4138997,11.9231671 3.75830089,11.5703047 L4.57167392,10.7279879 C4.91973895,10.3675371 5.48763453,10.3751255 5.82837188,10.7431648 L10.034463,15.3151992 L10.034463,4.41061265 C10.034463,3.90598148 10.4264942,3.5 10.9137852,3.5 L12.0862148,3.5 C12.5735058,3.5 12.965537,3.90598148 12.965537,4.41061265 L12.965537,15.3151992 L17.1716281,10.7431648 C17.5123655,10.3713313 18.080261,10.3637429 18.4283261,10.7279879 Z" id="path-1"></path>
+    </defs>
+    <g id="Revizyonlar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="001-Home-Page" transform="translate(-138.000000, -706.000000)">
+            <g id="_Öne-Çıkanlar" transform="translate(130.000000, 608.000000)">
+                <g id="Oklar" transform="translate(0.000000, 90.000000)">
+                    <g id="Arrow_Left_Icon" transform="translate(8.000000, 8.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1" transform="translate(11.500000, 12.000000) scale(-1, -1) rotate(-90.000000) translate(-11.500000, -12.000000) "></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" fill-rule="nonzero" transform="translate(11.500000, 12.000000) scale(-1, -1) rotate(-90.000000) translate(-11.500000, -12.000000) " xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

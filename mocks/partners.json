@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "company": "Acıbadem",
+      "slug": "acibadem"
+    },
+    {
+      "id": 2,
+      "company": "Akbank",
+      "slug": "akbank"
+    },
+    {
+      "id": 3,
+      "company": "Akçan-SA",
+      "slug": "akcansa"
+    },
+    {
+      "id": 4,
+      "company": "Akkim",
+      "slug": "akkim"
+    },
+    {
+      "id": 5,
+      "company": "Akkök Holding",
+      "slug": "akkok"
+    },
+    {
+      "id": 6,
+      "company": "Aktif Bank",
+      "slug": "aktifbank"
+    },
+    {
+      "id": 7,
+      "company": "Allianz",
+      "slug": "allianz"
+    },
+    {
+      "id": 8,
+      "company": "Anadolu Sigorta",
+      "slug": "anadolu"
+    },
+    {
+      "id": 9,
+      "company": "AnelGroup",
+      "slug": "anel"
+    },
+    {
+      "id": 10,
+      "company": "Arçelik",
+      "slug": "arcelik"
+    },
+    {
+      "id": 11,
+      "company": "B/S/H",
+      "slug": "bsh"
+    },
+    {
+      "id": 12,
+      "company": "Bezmialem Vakıf Üniversitesi",
+      "slug": "bezmialem"
+    },
+    {
+      "id": 13,
+      "company": "Rönesans Holding",
+      "slug": "ronesans"
+    },
+    {
+      "id": 14,
+      "company": "TAV Airports",
+      "slug": "tav"
+    }
+  ]
+}

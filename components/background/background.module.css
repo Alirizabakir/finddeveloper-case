@@ -1,0 +1,21 @@
+.group12,
+.group13,
+.group19 {
+    position: absolute;
+    z-index: -1;
+}
+
+.group12 {
+    bottom: 0;
+    left: 0;
+}
+
+.group13 {
+    top: 0;
+    left: 0;
+}
+
+.group19 {
+    top: 0;
+    right: 0;
+}

@@ -1,0 +1,337 @@
+/*MarkPro*/
+@font-face {
+    font-family: 'MarkPro';
+    src: url('/fonts/markpro/MarkPro.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Black';
+    src: url('/fonts/markpro/MarkPro-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-BlackItalic';
+    src: url('/fonts/markpro/MarkPro-BlackItalic.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Bold';
+    src: url('/fonts/markpro/MarkPro-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-BoldItalic';
+    src: url('/fonts/markpro/MarkPro-BoldItalic.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-ExtraLight';
+    src: url('/fonts/markpro/MarkPro-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-ExtraLightItalic';
+    src: url('/fonts/markpro/MarkPro-ExtraLightItalic.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Italic';
+    src: url('/fonts/markpro/MarkPro-Italic.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Light';
+    src: url('/fonts/markpro/MarkPro-Light.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-LightItalic';
+    src: url('/fonts/markpro/MarkPro-LightItalic.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Regular';
+    src: url('/fonts/markpro/MarkPro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-SemiBold';
+    src: url('/fonts/markpro/MarkPro-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-SemiBoldItalic';
+    src: url('/fonts/markpro/MarkPro-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-HairLine';
+    src: url('/fonts/markpro/MarkPro-HairLine.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-HairLineItalic';
+    src: url('/fonts/markpro/MarkPro-HairLineItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Heavy';
+    src: url('/fonts/markpro/MarkPro-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-HeavyItalic';
+    src: url('/fonts/markpro/MarkPro-HeavyItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Medium';
+    src: url('/fonts/markpro/MarkPro-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Thin';
+    src: url('/fonts/markpro/MarkPro-Thin.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-ThinItalic';
+    src: url('/fonts/markpro/MarkPro-ThinItalic.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Ultra';
+    src: url('/fonts/markpro/MarkPro-Ultra.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-Book';
+    src: url('/fonts/markpro/MarkPro-Book.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MarkPro-BookItalic';
+    src: url('/fonts/markpro/MarkPro-BookItalic.otf') format('truetype');
+}
+
+/*Nunito*/
+@font-face {
+    font-family: 'Nunito-Black';
+    src: url('/fonts/nunito/Nunito-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-BlackItalic';
+    src: url('/fonts/nunito/Nunito-BlackItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-Bold';
+    src: url('/fonts/nunito/Nunito-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-BoldItalic';
+    src: url('/fonts/nunito/Nunito-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-ExtraBold';
+    src: url('/fonts/nunito/Nunito-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-ExtraBoldItalic';
+    src: url('/fonts/nunito/Nunito-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-ExtraLight';
+    src: url('/fonts/nunito/Nunito-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-ExtraLightItalic';
+    src: url('/fonts/nunito/Nunito-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-Italic';
+    src: url('/fonts/nunito/Nunito-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-Light';
+    src: url('/fonts/nunito/Nunito-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-LightItalic';
+    src: url('/fonts/nunito/Nunito-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-Regular';
+    src: url('/fonts/nunito/Nunito-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-SemiBold';
+    src: url('/fonts/nunito/Nunito-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito-SemiBoldItalic';
+    src: url('/fonts/nunito/Nunito-SemiBoldItalic.ttf') format('truetype');
+}
+
+/* styles/font.css */
+/* MarkPro font stilleri */
+.markpro {
+    font-family: 'MarkPro', sans-serif;
+}
+
+.markpro-black {
+    font-family: 'MarkPro-Black', sans-serif;
+}
+
+.markpro-blackitalic {
+    font-family: 'MarkPro-BlackItalic', sans-serif;
+}
+
+.markpro-bold {
+    font-family: 'MarkPro-Bold', sans-serif;
+}
+
+.markpro-bolditalic {
+    font-family: 'MarkPro-BoldItalic', sans-serif;
+}
+
+.markpro-extralight {
+    font-family: 'MarkPro-ExtraLight', sans-serif;
+}
+
+.markpro-extralightitalic {
+    font-family: 'MarkPro-ExtraLightItalic', sans-serif;
+}
+
+.markpro-italic {
+    font-family: 'MarkPro-Italic', sans-serif;
+}
+
+.markpro-light {
+    font-family: 'MarkPro-Light', sans-serif;
+}
+
+.markpro-lightitalic {
+    font-family: 'MarkPro-LightItalic', sans-serif;
+}
+
+.markpro-regular {
+    font-family: 'MarkPro-Regular', sans-serif;
+}
+
+.markpro-semibold {
+    font-family: 'MarkPro-SemiBold', sans-serif;
+}
+
+.markpro-semibolditalic {
+    font-family: 'MarkPro-SemiBoldItalic', sans-serif;
+}
+
+.markpro-hairline {
+    font-family: 'MarkPro-HairLine', sans-serif;
+}
+
+.markpro-hairlineitalic {
+    font-family: 'MarkPro-HairLineItalic', sans-serif;
+}
+
+.markpro-heavy {
+    font-family: 'MarkPro-Heavy', sans-serif;
+}
+
+.markpro-heavyitalic {
+    font-family: 'MarkPro-HeavyItalic', sans-serif;
+}
+
+.markpro-medium {
+    font-family: 'MarkPro-Medium', sans-serif;
+}
+
+.markpro-thin {
+    font-family: 'MarkPro-Thin', sans-serif;
+}
+
+.markpro-thinitalic {
+    font-family: 'MarkPro-ThinItalic', sans-serif;
+}
+
+.markpro-ultra {
+    font-family: 'MarkPro-Ultra', sans-serif;
+}
+
+.markpro-book {
+    font-family: 'MarkPro-Book', sans-serif;
+}
+
+.markpro-bookitalic {
+    font-family: 'MarkPro-BookItalic', sans-serif;
+}
+
+/* Nunito font stilleri */
+.nunito-black {
+    font-family: 'Nunito-Black', sans-serif;
+}
+
+.nunito-blackitalic {
+    font-family: 'Nunito-BlackItalic', sans-serif;
+}
+
+.nunito-bold {
+    font-family: 'Nunito-Bold', sans-serif;
+}
+
+.nunito-bolditalic {
+    font-family: 'Nunito-BoldItalic', sans-serif;
+}
+
+.nunito-extrabold {
+    font-family: 'Nunito-ExtraBold', sans-serif;
+}
+
+.nunito-extrabolditalic {
+    font-family: 'Nunito-ExtraBoldItalic', sans-serif;
+}
+
+.nunito-extralight {
+    font-family: 'Nunito-ExtraLight', sans-serif;
+}
+
+.nunito-extralightitalic {
+    font-family: 'Nunito-ExtraLightItalic', sans-serif;
+}
+
+.nunito-italic {
+    font-family: 'Nunito-Italic', sans-serif;
+}
+
+.nunito-light {
+    font-family: 'Nunito-Light', sans-serif;
+}
+
+.nunito-lightitalic {
+    font-family: 'Nunito-LightItalic', sans-serif;
+}
+
+.nunito-regular {
+    font-family: 'Nunito-Regular', sans-serif;
+}
+
+.nunito-semibold {
+    font-family: 'Nunito-SemiBold', sans-serif;
+}
+
+.nunito-semibolditalic {
+    font-family: 'Nunito-SemiBoldItalic', sans-serif;
+}

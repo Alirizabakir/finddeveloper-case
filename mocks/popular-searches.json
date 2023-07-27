@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "UX Desinger"
+    },
+    {
+      "id": 2,
+      "title": "UI Desinger"
+    },
+    {
+      "id": 3,
+      "title": "Front-end Developer"
+    },
+    {
+      "id": 4,
+      "title": "Back-end Developer"
+    },
+    {
+      "id": 5,
+      "title": "iOS Developer"
+    },
+    {
+      "id": 6,
+      "title": "Android Developer"
+    },
+    {
+      "id": 7,
+      "title": ".net Developer"
+    },
+    {
+      "id": 8,
+      "title": "Junior .net Developer"
+    },
+    {
+      "id": 9,
+      "title": "Junior .net Developer"
+    },
+    {
+      "id": 10,
+      "title": "Junior .net Developer"
+    }
+  ]
+}

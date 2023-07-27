@@ -1,0 +1,216 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    transition: all .3s;
+}
+
+.headerWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+}
+
+.headerWrapper span img {
+    width: 200px;
+    opacity: 0;
+    transition: all .3s;
+    cursor: pointer;
+}
+
+.navigation {
+    display: flex;
+    gap: 20px;
+}
+
+.button {
+    width: 100px;
+    border: 1px solid var(--white);
+    height: 36px;
+    border-radius: 2rem;
+    background: transparent;
+    font-family: 'MarkPro-Medium', sans-serif;
+    font-size: 16px;
+    color: var(--white);
+    transition: all .2s;
+}
+
+.button:hover {
+    background-color: var(--white);
+    color: var(--primary);
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+    padding: 10px 0;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--white);
+    margin-right: 15px;
+}
+
+.name {
+    display: flex;
+    align-items: center;
+}
+
+.name img {
+    width: 20px;
+}
+
+.popup {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: var(--white);
+    min-width: 200px;
+    border-radius: 8px;
+    padding: 8px;
+    transform: translateY(-10px);
+    opacity: 0;
+    visibility: hidden;
+    transition: all .3s;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.popup div {
+    color: var(--primary);
+    padding: 8px;
+    cursor: pointer;
+    transition: all .2s;
+    font-size: 16px;
+}
+
+.popup div:hover {
+    color: var(--white);
+    background-color: var(--primary);
+}
+
+.user:hover .popup {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+}
+
+.job {
+    font-size: 12px;
+}
+
+.profilePicture {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+.group20,
+.group22,
+.group27 {
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    transition: all .3s;
+    z-index: -1;
+}
+
+.group20 {
+    right: 50%;
+    transform: translateX(-50%);
+}
+
+.group22 {
+    right: 0;
+}
+
+.group27 {
+    left: 0;
+}
+
+.headerActive {
+    background: var(--primary);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
+    transition: all .3s linear;
+}
+
+.headerActive span img {
+    opacity: 1;
+    transition: all .3s;
+}
+
+.headerActive .group20, .headerActive .group22, .headerActive .group27 {
+    opacity: 1;
+    transition: all .3s;
+}
+
+@media (max-width: 576px) {
+    .header {
+        background: linear-gradient(0deg, rgba(247, 246, 246, 0) 0%, rgba(0, 0, 0, 0.3) 70%);
+    }
+
+    .headerActive {
+        background: var(--primary);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
+    }
+
+    .headerWrapper span img {
+        width: 120px;
+    }
+
+    .navigation {
+        gap: 10px;
+    }
+
+    .button {
+        width: 85px;
+        height: 30px;
+        font-size: 13px;
+    }
+
+
+    .title {
+        margin-right: 10px;
+    }
+
+    .name {
+        font-size: 14px;
+    }
+
+    .name img {
+        width: 16px;
+    }
+
+    .popup {
+        min-width: 150px;
+        padding: 6px;
+    }
+
+    .popup div {
+        padding: 8px;
+        font-size: 13px;
+    }
+
+    .job {
+        font-size: 10px;
+    }
+
+    .profilePicture {
+        width: 40px;
+        height: 40px;
+    }
+
+    .group20,
+    .group22,
+    .group27 {
+        display: none;
+    }
+}

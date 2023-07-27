@@ -1,0 +1,45 @@
+{
+  "data": {
+    "fullName": "Nesil AKSOY",
+    "position": "UX Desinger",
+    "website": "eray_karakullukcu.neyasis.com",
+    "phoneNumber": "+90 555 66 44",
+    "social": [
+      {
+        "id": 1,
+        "name": "linkedIn",
+        "link": "www.linkedin.com"
+      },
+      {
+        "id": 1,
+        "name": "Github",
+        "link": "www.github.com"
+      },
+      {
+        "id": 1,
+        "name": "Shape",
+        "link": "www.shape.com"
+      },
+      {
+        "id": 1,
+        "name": "",
+        "link": "www.linkedin.com"
+      },
+      {
+        "id": 1,
+        "name": "linkedIn",
+        "link": "www.linkedin.com"
+      },
+      {
+        "id": 1,
+        "name": "linkedIn",
+        "link": "www.linkedin.com"
+      },
+      {
+        "id": 1,
+        "name": "linkedIn",
+        "link": "www.linkedin.com"
+      }
+    ]
+  }
+}
