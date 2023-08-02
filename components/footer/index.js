@@ -1,3 +1,4 @@
+'use client'
 import styles from './footer.module.css'
 import {usePathname} from "next/navigation";
 
@@ -17,7 +18,7 @@ export default function Footer() {
                             <li>Şartlar</li>
                         </ul>
                     </div>
-                    <div style={{display: pathName !== '/' && 'none'}} className={styles.rightFooter}>
+                    <div className={`${pathName !== '/' ? 'd-none' : styles.rightFooter}`}>
                         <img src="/media/rectangle/iskur-logo.png" alt="iskur-logo"/>
                         <div>
                             <p>

@@ -23,6 +23,13 @@ body {
     margin: 0 auto;
 }
 
+.vh-100 {
+    height: 100vh;
+}
+
+.d-none {
+    display: none;
+}
 
 @media (max-width: 1200px) {
     .container {
